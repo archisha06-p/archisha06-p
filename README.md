@@ -184,7 +184,7 @@ I'm happy to connect with fellow students, developers, and cloud enthusiasts as 
   <a href="https://github.com/archisha06-p">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" />
   </a>
-  <a href="LinkedIn URL: https://www.linkedin.com/in/archisha-pandey/
+  <a href="LinkedIn URL: https://www.linkedin.com/in/archisha-pandey-184170370/
 Professional email: archisha0619@gmail.com
   ">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn — replace with your actual profile URL" />
